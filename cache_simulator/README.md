@@ -9,3 +9,4 @@ The reference simulator takes the following command-line arguments:
     • -E <E>: Associativity (number of lines per set)
     • -b <b>: Number of block bits
     • -t <tracefile>: Name of the valgrind trace to replay
+  
